@@ -1,0 +1,12 @@
+
+
+
+
+
+            belts[1].put(1);
+            belts[1].put(1);
+            belts[1].remove(1);
+            belts[2].put(1);
+            belts[1].remove(1);
+
+
